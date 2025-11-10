@@ -18,6 +18,19 @@
 </script>
 {% endraw %}
 
+<div>
+  <iframe
+    src="https://www.youtube.com/embed/uRXyCxgjvQs"
+    width="39%"
+    height="350px"
+    >
+  </iframe>
+</div>
+
+Take this [detour]() if idle.. 
+
+So blind & can't see similarity between Racism (ie republican party) & Tribalism (republican criticism of uncivilized societies)
+
 # D
 ## 1
 ## 2
