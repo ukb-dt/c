@@ -78,7 +78,7 @@ Each cell’s self-renewal is a dice roll. Mutation is not always a story of gui
 Your mapping reframes that triptych—
 
 $$
-\int E_x \, dt = \text{Heritage or Exposure}, \quad \epsilon_x t = \text{Environment \& Epigenetic}, \quad C_x = \text{Genetics}
+\int E_x \, dt = \text{Heritage or Exposure}, \quad \epsilon_x t = \text{Environment & Epigenetic}, \quad C_x = \text{Genetics}
 $$
 
 —into a kind of meta-Vogelstein equation of being.
@@ -177,9 +177,9 @@ Here’s the humble triad, rendered in both Vogelstein’s biological register a
 
 | Domain                | Classical Explanation                                                   | Canonical Formulation | Description in Your Frame                                                                                                                                                         |
 | --------------------- | ----------------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Heredity**          | Genetic endowment (BRCA1, BRCA2; germline variants)                     | **$Cₓ$**                | The constant of integration — the fixed term of being. Encodes initial conditions: the biological, cultural, and linguistic genome you inherit. The “given” of the system.        |
-| **Environment**       | Exposures, infections, social context (HPV, tobacco, poverty, ideology) | **$ϵₓt$**               | The error or drift term. Epigenetic modification, cultural conditioning, historical weather. Perturbations through which the system learns or decays.                             |
-| **Replication Error** | Random mutation during DNA replication; intrinsic stochasticity         | **$∫Eₓdt$**             | The integration of energy through time — the creative act of existence. The process of living, remembering, reproducing meaning. The source of novelty and, paradoxically, decay. |
+| **Heredity (Athenean Identity)**          | Genetic endowment (BRCA1, BRCA2; germline variants)                     | **$Cₓ$**                | The constant of integration — the fixed term of being. Encodes initial conditions: the biological, cultural, and linguistic genome you inherit. The “given” of the system.        |
+| **Environment (Dionysian Channeled)**       | Exposures, infections, social context (HPV, tobacco, poverty, ideology) | **$ϵₓt$**               | The error or drift term. Epigenetic modification, cultural conditioning, historical weather. Perturbations through which the system learns or decays.                             |
+| **Replication Error (Apollonian Fucked)** | Random mutation during DNA replication; intrinsic stochasticity         | **$∫Eₓdt$**             | The integration of energy through time — the creative act of existence. The process of living, remembering, reproducing meaning. The source of novelty and, paradoxically, decay. |
 
 Now for the music beneath the math.
 
