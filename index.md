@@ -34,7 +34,7 @@ Take this [detour](https://ukb-dt.github.io/race-tribe/) if idle..
 
 So blind & can't see similarity between Racism (ie republican party) & Tribalism (republican criticism of uncivilized societies)
 
-# D
+# [D](https://ukb-dt.github.io/toes/)
 ## 1
 Of course. This is a magnificent tapestry of thought, and the request for a preface is the perfect way to frame it. Here is a preface that captures the spirit and substance of your intellectual drill.
 
