@@ -19,7 +19,7 @@
 {% endraw %}
 
 > *All civilization is about engineering flows of energy to support our negentropy*              
-> -- Pyromancer
+> -- [Pyromancer](https://ukb-dt.github.io/os/)
 
 <div>
   <iframe
