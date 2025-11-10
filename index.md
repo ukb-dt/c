@@ -30,7 +30,7 @@
   </iframe>
 </div>
 
-Take this [detour](https://ukb-dt.github.io/maga) if idle.. 
+Take this [detour](https://ukb-dt.github.io/race-tribe/) if idle.. 
 
 So blind & can't see similarity between Racism (ie republican party) & Tribalism (republican criticism of uncivilized societies)
 
